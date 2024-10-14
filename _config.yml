@@ -3,7 +3,7 @@ title: Emanuel Roth
 description: >
   My personal page
 
-baseurl: "" # the subpath of your site, e.g. /page
+# baseurl: "" the subpath of your site, e.g. /page
 url: "https://eroth.github.io/home/" # the base hostname & protocol for your site
 
 author:
