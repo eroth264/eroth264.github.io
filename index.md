@@ -14,3 +14,6 @@ sitemap:
 <div id="describe-text">
 	<p>My email is E [dot] Roth [at] sms.ed.ac.uk</p>
 </div>
+
+<div id="describe-text">
+	<p><a href="https://github.com/knhash/Pudhina">Theme for this site.</a>
