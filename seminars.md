@@ -8,7 +8,7 @@ Geometric Invariant Theory (GIT) studies the action of a group on an algebraic v
 
 The seminar is hybrid and runs weekly on Thursdays 9:30 to 10:00 (give or take). If you want to join on Zoom or talk, <a href="{{ site.url }}">email me</a> or <a href="https://shingtaklam1324.github.io/">Shing Tak Lam</a>.
 
-<p><strong>Motivation</strong> - Emanuel - 40 George Square 11.06 <span style="float: right; "><a href="/assets/GIT_1.pdf"><strong>&gt; GIT_1.pdf</strong></a> - 10th October 2024</span><br />
+<p><strong>Motivation</strong> - Emanuel - 40 George Square 11.06 <span style="float: right; ">10th October 2024</span><br />
 Explain what moduli problems are, and what a (coarse/fine) moduli space is. Explain
 what can go wrong when we take a quotient by a group action, and why we need to
 restrict to “stable” objects. Explain the general philosophy of constructing moduli spaces
@@ -20,7 +20,9 @@ Define algebraic groups, group actions, orbits and stabilizers. Categorical quot
 <p><strong>Affine and Projective GIT</strong> - Yaoqi - Bayes 3.57  <span style="float: right; "> 24th October 2024</span><br />
 Construction of the affine and projective GIT quotients. Stable and semistable sets. Relation to the “geometric” quotient. Linearization. Projective GIT with respect to an ample line bundle.</p>
 
-<p><strong>TBA</strong></p>
+<p><strong>Stability</strong> - David - Bayes 3.57  <span style="float: right; "> 31st October 2024</span><br />
+Topological criterion. One-parameter subgroups, linearizations. Hilbert-Mumford criterion.
+
 
 <h3 id="education">ALGEBRAIC STACKS - SPRING 2025</h3>
 
