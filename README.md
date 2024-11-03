@@ -1,4 +1,4 @@
-## How to use it
+## Description
 My personal website.
 
 ## Credits
