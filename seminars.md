@@ -2,6 +2,8 @@
 layout: page
 ---
 
+Here are some student-run <a href="https://www.agq-cdt.org/">AGQ</a> seminars that are cool!
+
 <h3 id="projects">GEOMETRIC INVARIANT THEORY - WINTER 2024</h3>
 
 Geometric Invariant Theory (GIT) studies the action of a group on an algebraic variety, and how we can form the "quotient" space. One motivation is to construct moduli spaces in algebraic geometry, where we want to classify geometric objects up to some form of equivalence. In this reading course, we'll aim to understand the basic constructions and techniques in GIT, and then apply them to constructing different moduli spaces, such as the moduli of vector bundles and the moduli space of curves. We will then conclude by discussing the connections to quotients in symplectic and complex geometry.
@@ -23,7 +25,13 @@ Construction of the affine and projective GIT quotients. Stable and semistable s
 <p><strong>Stability</strong> - David - Bayes 3.57  <span style="float: right; "> 31st October 2024</span><br />
 Topological criterion. One-parameter subgroups, linearizations. Hilbert-Mumford criterion.
 
+<p><strong>Moduli Space of Curves</strong> <span style="float: right; "> 7th November 2024</span><br />
+Hilbert schemes. Stability of action on Hilbert scheme. (Giesecker) stability of smooth curves. Construction of the moduli space of curves by GIT.
 
 <h3 id="education">ALGEBRAIC STACKS - SPRING 2025</h3>
+
+<p><strong>TBA</strong></p>
+
+<h3 id="education">GEOMETRIC REPRESENTATION THEORY - SPRING 2025</h3>
 
 <p><strong>TBA</strong></p>
