@@ -8,7 +8,7 @@ Here are some student-run <a href="https://www.agq-cdt.org/">AGQ</a> seminars th
 
 Geometric Invariant Theory (GIT) studies the action of a group on an algebraic variety, and how we can form the "quotient" space. One motivation is to construct moduli spaces in algebraic geometry, where we want to classify geometric objects up to some form of equivalence. In this reading course, we'll aim to understand the basic constructions and techniques in GIT, and then apply them to constructing different moduli spaces, such as the moduli of vector bundles and the moduli space of curves. We will then conclude by discussing the connections to quotients in symplectic and complex geometry.
 
-The seminar is hybrid and runs weekly on Thursdays 9:30 to 10:00 (give or take). If you want to join on Zoom or talk, <a href="{{ site.url }}">email me</a> or <a href="https://shingtaklam1324.github.io/">Shing Tak Lam</a>.
+The seminar is hybrid and runs weekly on Thursdays 10:00 to 11:30 (give or take). If you want to join on Zoom or talk, <a href="{{ site.url }}">email me</a> or <a href="https://shingtaklam1324.github.io/">Shing Tak Lam</a>.
 
 <p><strong>Motivation</strong> - Emanuel - 40 George Square 11.06 <span style="float: right; ">10th October 2024</span><br />
 Explain what moduli problems are, and what a (coarse/fine) moduli space is. Explain
@@ -25,8 +25,13 @@ Construction of the affine and projective GIT quotients. Stable and semistable s
 <p><strong>Stability</strong> - David - Bayes 3.57  <span style="float: right; "> 31st October 2024</span><br />
 Topological criterion. One-parameter subgroups, linearizations. Hilbert-Mumford criterion.
 
-<p><strong>Moduli Space of Curves</strong> <span style="float: right; "> 7th November 2024</span><br />
-Hilbert schemes. Stability of action on Hilbert scheme. (Giesecker) stability of smooth curves. Construction of the moduli space of curves by GIT.
+<p><strong>Moduli Space of Curves I</strong> - Tudor - Bayes 5.45 <span style="float: right; "> 7th November 2024</span><br />
+Hilbert schemes, construction of Hilbert schemes. Realization of the moduli space of smooth curves as a GIT quotient of a subscheme of a Hilbert scheme. Explaining GIT-(semi)-stability for the genus 1 case (i.e., for elliptic curves).
+
+<p><strong>Moduli Space of Curves II</strong> - Noah - Bayes 4.47 <span style="float: right; "> 14th November 2024</span><br />
+Mention a numerical criterion to determine the (semi)-stability Hilbert points (and Gieseker's criterion for curves). Gieseker's construction of Mg bar, and introduce Deligne-Mumford stability of curves, and compare this to the stability of Hilbert points (Potential stability theorem). Afterward, we discuss a pluricanonical embedding of DM-stable curves into a Hilbert scheme, contained within the Hilbert-stable points, and how to take a GIT quotient of this locus to construct Mg bar.
+
+<p><strong>Moduli Space of Vector Bundles</strong> - Emanuel - Bayes 4.47 <span style="float: right; "> 21st November 2024</span><br />
 
 <h3 id="education">ALGEBRAIC STACKS - SPRING 2025</h3>
 
