@@ -31,7 +31,12 @@ Hilbert schemes, construction of Hilbert schemes. Realization of the moduli spac
 <p><strong>Moduli Space of Curves II</strong> - Noah - Bayes 4.47 <span style="float: right; "> 14th November 2024</span><br />
 Mention a numerical criterion to determine the (semi)-stability Hilbert points (and Gieseker's criterion for curves). Gieseker's construction of Mg bar, and introduce Deligne-Mumford stability of curves, and compare this to the stability of Hilbert points (Potential stability theorem). Afterward, we discuss a pluricanonical embedding of DM-stable curves into a Hilbert scheme, contained within the Hilbert-stable points, and how to take a GIT quotient of this locus to construct Mg bar.
 
-<p><strong>Moduli Space of Vector Bundles</strong> - Emanuel - Bayes 4.47 <span style="float: right; "> 21st November 2024</span><br />
+<p><strong>Moduli Space of Vector Bundles I</strong> - Emanuel - Bayes 4.47 <span style="float: right; "> 21st November 2024</span><br />
+Talk about constructing the moduli space of vector bundles. Recap  vector bundles and how degrees are defined, define slope-(semi)-stability afterwards, and discuss some important consequences and examples of slope-(semi)-stability. In order to construct this moduli space, we need to parametrize quotients of bundles (of a fixed bundle) in a fine moduli space, called a Quot scheme. Taking the locus of semistable vector bundles within this scheme, and GIT quotienting out by a GLn action will give us the moduli space of vector bundles we want. Quot schemes are a generalization of Hilbert schemes (from Tudor and Noah's talks), whose construction mirrors that of Hilbert schemes.
+
+
+<p><strong>Moduli Space of Vector Bundles II</strong> - Ander - Bayes 3.57 <span style="float: right; "> 28th November 2024</span><br />
+Continue our construction of the moduli space of vector bundles that we started last week. Topics include constructing a projective GIT quotient of a subscheme of a Quot scheme (corresponding to the locus of semistable vector bundles). This GIT quotient should be a coarse moduli space of vector bundles of rank r and degree d, and using the Hilbert-Mumford criterion, we can conclude that GIT-(semi)-stability is equivalent to slope-(semi)-stability.
 
 <h3 id="education">ALGEBRAIC STACKS - SPRING 2025</h3>
 
